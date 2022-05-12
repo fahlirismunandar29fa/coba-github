@@ -1,3 +1,5 @@
 -github merupakan software vesion control system
 -berfungsi untuk merekam oerubahan yang terjadi pada sebuah file source code
 -github merupakan sebuah website berbasis cloud untuk melakukan verrsion control system yang didalamnya menggunakan git
+-ini adalah teks baru yang ditambahkan
+-ini teks baru kedua yang ditambahkan
