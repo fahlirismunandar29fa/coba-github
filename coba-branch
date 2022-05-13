@@ -2,5 +2,7 @@ INI ADALAH BRANCH ATAU CABANG
 - Branch merupakan sebuah cabang di dalam git
 - Berfungsi untuk keluar dari branch master/utama
 - Bisa digunakan jika mempunyai sebuah fitur yang belum pasti akan di publish
-- Ini ditambahkan baris baru
+- ini dihapus dan diubah
 - Kita akan mencoba melakukan merge atau penggabungan branch ke jalur utama/main branch
+- tambahaan baris baru
+- tambahan baris kedua
